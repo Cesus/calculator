@@ -2,6 +2,7 @@
 from tkinter import *
 
 root = Tk()
+root.title('Simple Calculator')
 
 # Create an entry gui and place it on a grid
 e = Entry(root, width=35, borderwidth=5)
