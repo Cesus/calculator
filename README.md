@@ -24,7 +24,7 @@ Clone me! Open me with PyCharm! Run me! Delete me bc this is a sh!ttty calculato
 
 ## Running the tests
 
-Im not actually sure what a person would put for this, I could copied the format. Im leaving this here though
+Im not actually sure what a someone would put for this as I could copied the format. Im leaving this here though
 
 ### Break down into end to end tests
 
@@ -58,7 +58,7 @@ It would be a waste to contribute to this. I might redo this at the end of high 
 
 ## Versioning
 
-Still have 0 clue about versioning my stuff. HOWEVER I'm going to call this version alpha to be cool. ![GitHub Logo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjC9d6b-pTkAhW2HzQIHeDvAEQQjRx6BAgBEAQ&url=https%3A%2F%2Femojipedia.org%2Fsmiling-face-with-sunglasses%2F&psig=AOvVaw3T5VR9XKYRslZ-CmlJzdNf&ust=1566510958165503)
+Still have 0 clue about versioning my stuff. HOWEVER I'm going to call this version alpha to be cool. ![Sunglasses emoji](https://cdn.shopify.com/s/files/1/1061/1924/products/Sunglasses_Emoji_be26cc0a-eef9-49e5-8da2-169bb417cc0b_large.png?v=1480481057)
 
 ## Authors
 
