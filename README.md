@@ -58,7 +58,7 @@ It would be a waste to contribute to this. I might redo this at the end of high 
 
 ## Versioning
 
-Still have 0 clue about versioning my stuff. HOWEVER I'm going to call this version alpha to be cool. ![Sunglasses emoji](https://upload.wikimedia.org/wikipedia/commons/3/33/Twemoji_1f60e.svg)
+Still have 0 clue about versioning my stuff. HOWEVER I'm going to call this version alpha to be cool. ![Sunglasses emoji](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Twemoji_1f60e.svg/240px-Twemoji_1f60e.svg.png)
 
 ## Authors
 
