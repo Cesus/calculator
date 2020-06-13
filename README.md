@@ -19,7 +19,7 @@ just kidding, you could run this on a toaster...actually you probably couldn't..
 Click clone, download, open with an ide or something.
 
 ```
-Clone me! Open me with PyCharm! Run me! Delete me bc this is a sh!ttty calculator!
+Clone me! Open me with PyCharm! Run me! Delete me bc this is a crappy calculator!
 ```
 
 ## Running the tests
